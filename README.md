@@ -1,7 +1,5 @@
 # aut-search-prices
 
-* Sobre o projeto
-
 * O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   - Ruby na versão 3.1.0
