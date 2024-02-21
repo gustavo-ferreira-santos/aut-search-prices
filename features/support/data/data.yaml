@@ -1,0 +1,116 @@
+rens_pet:
+  products_list_dogs:
+    - https://www.renspets.com/products/acana-adult-wild-prairie?size=2+kg # Acana - Grain-Free Highest Protein 
+    - https://www.renspets.com/products/acana-adult-wild-prairie?size=6+kg
+    - https://www.renspets.com/products/acana-adult-wild-prairie?size=11.4+kg
+    - https://www.renspets.com/products/acana-adult-pacifica?size=2+kg
+    - https://www.renspets.com/products/acana-adult-pacifica?size=6+kg
+    - https://www.renspets.com/products/acana-adult-pacifica?size=11.4+kg
+    - https://www.renspets.com/products/acana-adult-grasslands?size=2+kg
+    - https://www.renspets.com/products/acana-adult-grasslands?size=6+kg
+    - https://www.renspets.com/products/acana-adult-grasslands?size=11.4+kg
+    - https://www.renspets.com/products/acana-adult-singles-lamb-apple?size=1.8+kg # Acana - Limited Ingredient
+    - https://www.renspets.com/products/acana-adult-singles-lamb-apple?size=5.4+kg
+    - https://www.renspets.com/products/acana-adult-singles-lamb-apple?size=10.8+kg
+    - https://www.renspets.com/products/acana-adult-singles-duck-pear?size=1.8+kg
+    - https://www.renspets.com/products/acana-adult-singles-duck-pear?size=5.4+kg
+    - https://www.renspets.com/products/acana-adult-singles-duck-pear?size=10.8+kg
+    - https://www.renspets.com/products/acana-adult-singles-pork-squash?size=1.8+kg
+    - https://www.renspets.com/products/acana-adult-singles-pork-squash?size=5.4+kg
+    - https://www.renspets.com/products/acana-adult-singles-pork-squash?size=10.8+kg
+    - https://www.renspets.com/products/go-solutions-puppy-carnivore-gf-chicken-turkey-duck?size=1.58+kg # Go! Solutions Carnivore 
+    - https://www.renspets.com/products/go-solutions-puppy-carnivore-gf-chicken-turkey-duck?size=5.44+kg
+    - https://www.renspets.com/products/go-solutions-puppy-carnivore-gf-chicken-turkey-duck?size=10+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-chicken-turkey-duck?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-chicken-turkey-duck?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-chicken-turkey-duck?size=10+kg
+    - https://www.renspets.com/products/go-senior-carnivore-gf-chicken-turkey-duck?size=1.58+kg
+    - https://www.renspets.com/products/go-senior-carnivore-gf-chicken-turkey-duck?size=5.44+kg
+    - https://www.renspets.com/products/go-senior-carnivore-gf-chicken-turkey-duck?size=10+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-lamb-wild-boar?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-lamb-wild-boar?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-lamb-wild-boar?size=10+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-salmon-cod?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-salmon-cod?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-carnivore-gf-salmon-cod?size=10+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-salmon?size=1.58+kg # Go! Sensitivities
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-salmon?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-salmon?size=10+kg
+    - https://www.renspets.com/products/go-solutions-adult-sb-lid-gf-sensitivities-salmon?size=1.58+kg
+    - https://www.renspets.com/products/go-solutions-adult-sb-lid-gf-sensitivities-salmon?size=9.98+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-lamb?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-lamb?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-lamb?size=10+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-venison?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-venison?size=10+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-duck?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-duck?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-duck?size=10+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-turkey?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-turkey?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-sensitivities-gf-lid-turkey?size=10+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=1.58+kg #Go! Solutions Skin + Coat
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=11.3+kg
+    - https://www.renspets.com/products/go-solutions-puppy-lb-skin-coat-w-grains-salmon?size=5.44+kg
+    - https://www.renspets.com/products/go-solutions-puppy-lb-skin-coat-w-grains-salmon?size=11.3+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-chicken-1-58-kg?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-chicken-1-58-kg?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-chicken-1-58-kg?size=11.3+kg
+    - https://www.renspets.com/products/go-solutions-skin-coat-duck?size=1.58+kg
+    - https://www.renspets.com/products/go-solutions-skin-coat-duck?size=5.44+kg
+    - https://www.renspets.com/products/go-solutions-skin-coat-duck?size=11.3+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-lamb-1-58-kg?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-lamb-1-58-kg?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-lamb-1-58-kg?size=11.3+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=1.58+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=5.44+kg
+    - https://www.renspets.com/products/go-adult-skin-coat-salmon-1-58-kg?size=11.3+kg
+    - https://www.renspets.com/products/go-solutions-adult-skin-coat-care-turkey?size=1.58+kg
+    - https://www.renspets.com/products/go-solutions-adult-skin-coat-care-turkey?size=11.3+kg
+
+  products_list_cats:
+    - https://www.renspets.com/products/acana-feline-adult-wild-prairie-1?size=1.8+kg #Acana - Grain-Free Highest Protein 
+    - https://www.renspets.com/products/acana-feline-adult-wild-prairie-1?size=4.5+kg
+    - https://www.renspets.com/products/acana-feline-adult-pacifica-1?size=1.8+kg
+    - https://www.renspets.com/products/acana-feline-adult-pacifica-1?size=4.5+kg
+    - https://www.renspets.com/products/acana-feline-adult-grasslands-2?size=1.8+kg
+    - https://www.renspets.com/products/acana-feline-adult-grasslands-2?size=4.5+kg
+    - https://www.renspets.com/products/acana-feline-adult-first-feast-1-8-kg
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-chickenturkeyduck?size=1.36+kg #Go! Carnivore 
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-chickenturkeyduck?size=3.63+kg
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-chickenturkeyduck?size=7.25+kg
+    - https://www.renspets.com/products/go-tetra-feline-adult-carnivore-gf-lamb-wild-boar-181-g
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-salmon-cod?size=1.36+kg
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-salmon-cod?size=3.63+kg
+    - https://www.renspets.com/products/go-feline-adult-carnivore-gf-salmon-cod?size=7.25+kg
+    - https://www.renspets.com/products/go-feline-adult-sensitivities-gf-lid-duck?size=1.36+kg #Go! Sensitivities 
+    - https://www.renspets.com/products/go-feline-adult-sensitivities-gf-lid-duck?size=3.62+kg
+    - https://www.renspets.com/products/go-feline-adult-sensitivities-gf-lid-duck?size=7.25+kg
+    - https://www.renspets.com/products/go-solutions-adult-li-sensitivites-gf-insect-recipe?size=1.58+kg
+    - https://www.renspets.com/products/go-solutions-adult-li-sensitivites-gf-insect-recipe?size=5.44+kg
+    - https://www.renspets.com/products/go-solutions-feline-adult-digestion-gut-health-salmon-w-ancient-grains?size=1.36+kg #Go! Solutions Digestion & Gut Health 
+    - https://www.renspets.com/products/go-solutions-feline-adult-digestion-gut-health-salmon-w-ancient-grains?size=3.62+kg
+    - https://www.renspets.com/products/go-solutions-feline-adult-digestion-gut-health-salmon-w-ancient-grains?size=7.25+kg
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-chicken-1-36-kg?size=1.36+kg #Go! Skin and Coat 
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-chicken-1-36-kg?size=3.62+kg
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-chicken-1-36-kg?size=7.25+kg
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-salmon-1-36-kg?size=1.36+kg
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-salmon-1-36-kg?size=3.62+kg
+    - https://www.renspets.com/products/go-feline-adult-skin-coat-salmon-1-36-kg?size=7.25+kg
+    - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=1.36+kg #Go! Weight Management & Joint Care
+    - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=3.62+kg
+    - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=7.25+kg
+    
+#LOJA #1: GLOBAL PET
+#https://pei.globalpetfoods.com/products/list/
+#https://richmondhillmajormac.globalpetfoods.com/products
+#
+#LOJA #2: PET VALU
+#https://www.petvalu.ca/product
+#
+#LOJA #3: REN’S DEPOT
+#https://www.renspets.com/pages/shop-by-pet
+#
+#LOJA #4: HOMES ALIVE
+#https://www.homesalive.ca/
