@@ -2,7 +2,8 @@
 
 * Sobre o projeto
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+* O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
   - Ruby na versão 3.1.0
   - gems capybara, cucumber, rspec, selenium-webdriver, site_prism e spreadsheet
 
