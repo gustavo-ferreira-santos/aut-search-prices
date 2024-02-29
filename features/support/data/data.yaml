@@ -101,7 +101,48 @@ rens_pet:
     - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=1.36+kg #Go! Weight Management & Joint Care
     - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=3.62+kg
     - https://www.renspets.com/products/go-solutions-feline-adult-weight-management-joint-care-gf-chicken?size=7.25+kg
-    
+
+homes_alive:
+  products_list_dogs:
+    - https://www.homesalive.ca/acana-wild-prairie-dog-food.html # Acana - Grain-Free Highest Protein
+    - https://www.homesalive.ca/acana-pacifica-dog-food.html
+    - https://www.homesalive.ca/acana-grasslands-dog-food.html
+    - https://www.homesalive.ca/acana-grass-fed-lamb-dog-food.html # Acana - Limited Ingredient
+    - https://www.homesalive.ca/acana-free-run-duck-dog-food.html
+    - https://www.homesalive.ca/acana-yorkshire-pork-dog-food.html
+    - https://www.homesalive.ca/go-fit-free-grain-free-puppy-food.html # Go! Solutions Carnivore
+    - https://www.homesalive.ca/go-solutions-carnivore-grain-free-tetra-packs-for-dogs-chicken-turkey-duck-stew.html
+    - https://www.homesalive.ca/go-fit-free-grain-free-senior-dog-food.html
+    - https://www.homesalive.ca/go-solutions-carnivore-grain-free-tetra-packs-for-dogs-shredded-lamb-and-wild-boar-recipe.html
+    - https://www.homesalive.ca/go-solutions-carnivore-grain-free-dog-food-salmon-cod.html
+    - https://www.homesalive.ca/go-solutions-sensitivities-limited-ingredient-grain-free-salmon-recipe.html # Go! Sensitivities
+    - https://www.homesalive.ca/go-solutions-sensitivities-limited-ingredient-grain-free-small-bites-salmon-recipe.html
+    - https://www.homesalive.ca/go-solutions-sensitivities-limited-ingredient-grain-free-lamb-recipe.html
+    - https://www.homesalive.ca/go-sensitivity-shine-limited-ingredient-venison-recipe.html
+    - https://www.homesalive.ca/go-sensitivity-shine-limited-ingredient-duck-recipe.html
+    - https://www.homesalive.ca/go-solutions-sensitivities-limited-ingredient-grain-free-turkey-recipe.html
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-large-breed-adult-salmon-recipe-with-grains.html # Go! Solutions Skin + Coat
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-large-breed-puppy-salmon-recipe-with-grains.html
+    - https://www.homesalive.ca/go-daily-defence-chicken-recipe.html
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-duck-recipe-with-grains.html
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-lamb-recipe.html
+    - https://www.homesalive.ca/go-sensitivity-shine-salmon-recipe.html
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-turkey-recipe-with-grains.html
+  
+  products_list_cats:
+    - https://www.homesalive.ca/acana-wild-prairie-cat-food.html # Acana - Grain-Free Highest Protein
+    - https://www.homesalive.ca/acana-pacifica-cat-food.html
+    - https://www.homesalive.ca/acana-grasslands-cat-food.html
+    - https://www.homesalive.ca/acana-highest-protein-kitten-recipe.html
+    - https://www.homesalive.ca/go-fit-free-chicken-turkey-duck-cat-food.html # Go! Carnivore 
+    - https://www.homesalive.ca/go-solutions-carnivore-grain-free-lamb-wild-boar-cat-recipe.html
+    - https://www.homesalive.ca/go-solutions-carnivore-grain-free-salmon-cod-cat-recipe.html
+    - https://www.homesalive.ca/go-sensitivity-shine-limited-ingredient-duck-recipe-for-cats.html # Go! Sensitivities 
+    - https://www.homesalive.ca/go-solutions-digestion-gut-health-salmon-recipe-with-ancient-grains-for-cats.html # Go! Solutions Digestion & Gut Health
+    - https://www.homesalive.ca/go-daily-defence-chicken-cat-food.html # Go! Skin and Coat 
+    - https://www.homesalive.ca/go-solutions-skin-coat-care-grain-free-salmon-recipe.html
+    - https://www.homesalive.ca/go-solutions-weight-management-joint-care-grain-free-chicken-recipe-for-cats.html # Go! Weight Management & Joint Care
+
 #LOJA #1: GLOBAL PET
 #https://pei.globalpetfoods.com/products/list/
 #https://richmondhillmajormac.globalpetfoods.com/products

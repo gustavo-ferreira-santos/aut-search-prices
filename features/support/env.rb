@@ -31,5 +31,17 @@ end
 Capybara.configure do |config|
   config.default_driver = :custom_chrome
   Capybara.page.current_window.resize_to(1920, 1080)
+end
 
+RSpec.configure do |config|
+  config.after(:suite) do
+    Capybara.send(:session_pool).each do |name, session|
+      # Verifica se a sessão é do driver do Chrome
+      if session.driver.browser.is_a?(Capybara::Selenium::Driver) &&
+         session.driver.browser.browser == :chrome
+        # Fecha o navegador associado à sessão
+        session.driver.quit
+      end
+    end
+  end
 end

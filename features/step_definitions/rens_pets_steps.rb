@@ -18,7 +18,6 @@ Quando('acessar a PDP e capturar o preco') do
   products_dogs = data_load(%w[rens_pet products_list_dogs])
   products_dogs.each do |product_dog|
     visit product_dog
-    #rens_pets.wait_page_loaded
 
     produto = product_dog.gsub('/',' ').split[3].gsub('-', ' ').gsub('?', ' ')
     split_nome_produto = produto.delete_suffix(produto.split.last).chop.capitalize
@@ -58,7 +57,6 @@ Quando('acessar a PDP e capturar o preco') do
   products_cats = data_load(%w[rens_pet products_list_cats])
   products_cats.each do |product_cat|
     visit product_cat
-    rens_pets.wait_page_loaded
 
     produto = product_cat.gsub('/',' ').split[3].gsub('-', ' ').gsub('?', ' ')
     split_nome_produto = produto.delete_suffix(produto.split.last).chop.capitalize
