@@ -143,6 +143,114 @@ homes_alive:
     - https://www.homesalive.ca/go-solutions-skin-coat-care-grain-free-salmon-recipe.html
     - https://www.homesalive.ca/go-solutions-weight-management-joint-care-grain-free-chicken-recipe-for-cats.html # Go! Weight Management & Joint Care
 
+pet_valu:
+  products_list_dogs:
+    - https://www.petvalu.ca/product/acana-wild-prairie-dog-food/FCM04354CA # Acana - Grain-Free Highest Protein
+    - https://www.petvalu.ca/product/acana-pacifica-dog-food/FCM04355CA
+    - https://www.petvalu.ca/product/acana-grasslands-dog-food/FCM04356CA
+    - https://www.petvalu.ca/product/acana-singles-lamb-with-apple-recipe-dog-food/FCM04872CA # Acana - Limited Ingredient
+    - https://www.petvalu.ca/product/acana-singles-duck-pear-recipe-dog-food/FCM04873CA
+    - https://www.petvalu.ca/product/acana-singles-pork-with-squash-recipe-dog-food/FCM04874CA
+    - https://www.petvalu.ca/product/go-solutions-carnivore-grain-free-chicken-turkey-duck-puppy-recipe-dog-food/FCM02347CA # Go! Solutions Carnivore 
+    - https://www.petvalu.ca/product/go-solutions-carnivore-grain-free-chicken-turkey-duck-adult-recipe-dog-food/FCM02348CA
+    - https://www.petvalu.ca/product/go-solutions-carnivore-grain-free-chicken-turkey-duck-senior-recipe-dog-food/FCM02349CA
+    - https://www.petvalu.ca/product/go-solutions-carnivore-grain-free-lamb-wild-boar-recipe-dog-food/FCM04828CA
+    - https://www.petvalu.ca/product/go-solutions-carnivore-grain-free-salmon-cod-recipe-dog-food/FCM04829CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-insect-recipe-dog-food/FCM06855CA # Go! Sensitivities
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-salmon-recipe-dog-food/FCM04167CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-small-bites-salmon-recipe-dog-food/FCM04833CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-lamb-recipe-dog-food/FCM04168CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-venison-recipe-dog-food/FCM04165CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-duck-recipe-dog-food/FCM04166CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-turkey-recipe-dog-food/FCM04119CA
+    - https://www.petvalu.ca/product/go-solutions-sensitivities-limited-ingredient-grain-free-salmon-recipe-dog-food/FCM04167CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-salmon-with-grains-recipe-large-breed-adult-dog-food/FCM06904CA # Go! Solutions Skin + Coat
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-salmon-with-grains-recipe-large-breed-puppy-dog-food/FCM06905CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-care-chicken-recipe-dog-food/FCM02337CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-care-duck-recipe-with-grains-dog-food/FCM04785CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-care-lamb-recipe-dog-food/FCM02339CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-care-salmon-recipe-dog-food/FCM02338CA
+    - https://www.petvalu.ca/product/go-solutions-skin-coat-care-turkey-recipe-with-grains-dog-food/FCM04834CA
+
+global_pet:
+  products_list_dogs:
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Regionals-25-Wild-Prairie-Dry-Dog-Food-3/ # Acana - Grain-Free Highest Protein
+    - https://pei.globalpetfoods.com/products/Acana-Regionals-25-Wild-Prairie-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/Acana-Regionals-25-Wild-Prairie-Dry-Dog-Food-5/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Heritage-25-Pacifica-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Heritage-25-Pacifica-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Heritage-25-Pacifica-Dry-Dog-Food-5/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Regionals-25-Grasslands-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Regionals-25-Grasslands-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Regionals-25-Grasslands-Dry-Dog-Food-5/
+    - https://pei.globalpetfoods.com/products/charlottetown/ACANA-Singles-Limited-Ingredient-Diet-Lamb-Apple-Recipe-Dry-Dog-Food-2/ # Acana - Limited Ingredient
+    - https://pei.globalpetfoods.com/products/charlottetown/ACANA-Singles-Limited-Ingredient-Diet-Lamb-Apple-Recipe-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/ACANA-Singles-Limited-Ingredient-Diet-Duck-Pear-Recipe-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/charlottetown/ACANA-Singles-Limited-Ingredient-Diet-Duck-Pear-Recipe-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/acana-singles-limited-ingredient-diet-pork-squash-recipe-dry-dog-food-18-kg/
+    - https://pei.globalpetfoods.com/products/ACANA-Singles-Limited-Ingredient-Diet-Pork-Squash-Recipe-Dry-Dog-Food-5/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Carnivore-Grain-Free-Chicken-Turkey-Duck-Puppy-Dry-Dog-Food-2/ # Go! Solutions Carnivore 
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Carnivore-Grain-Free-Chicken-Turkey-Duck-Puppy-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Carnivore-Grain-Free-Chicken-Turkey-Duck-Puppy-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/petcurean-dog-go-carnivore-grain-free-chicken-turkey-duck-recipe-dry-dog-food-2/
+    - https://pei.globalpetfoods.com/products/charlottetown/petcurean-dog-go-carnivore-grain-free-chicken-turkey-duck-recipe-dry-dog-food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/petcurean-dog-go-carnivore-grain-free-chicken-turkey-duck-recipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/Petcurean-Go-Carnivore-Grain-Free-Chicken-Turkey-Duck-Recipe-Senior-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Go-Solutions-Carnivore-Grain-Free-Chicken-Turkey-Duck-Recipe-Senior-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-carnivore-grain-free-lamb-wild-boarrecipe-dry-dog-food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-carnivore-grain-free-lamb-wild-boarrecipe-dry-dog-food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-carnivore-grain-free-lamb-wild-boarrecipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/petcurean-dog-go-carnivore-grain-free-salmon-code-recipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Go-Solutions-Sensitivities-Limitied-Ingredient-Insect-Recipe-Grain-Free-Dry-Dog-Food-2/ # Go! Sensitivities
+    - https://pei.globalpetfoods.com/products/Go-Solutions-Sensitivities-Limitied-Ingredient-Insect-Recipe-Grain-Free-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Salmon-Recipe-Grain-Free-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Salmon-Recipe-Grain-Free-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Salmon-Recipe-Grain-Free-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Small-Bites-Sensitivities-Limited-Ingredient-Salmon-Grain-Free-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Small-Bites-Sensitivities-Limited-Ingredient-Salmon-Grain-Free-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Sensitivities-Limited-Ingredient-Grain-Free-Lamb-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Sensitivities-Limited-Ingredient-Grain-Free-Lamb-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Sensitivities-Limited-Ingredient-Grain-Free-Lamb-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Venison-Grain-Free-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Duck-Recipe-Grain-Free-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Duck-Recipe-Grain-Free-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Duck-Recipe-Grain-Free-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Turkey-Recipe-Grain-Free-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Turkey-Recipe-Grain-Free-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/charlottetown/Petcurean-Dog-Go-Solutions-Sensitivities-Limited-Ingredient-Salmon-Recipe-Grain-Free-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/charlottetown/Go-Solutions-Skin-Coat-Salmon-Recipe-with-Grains-Large-Breed-Puppy-Dry-Dog-Food-3/ # Go! Solutions Skin + Coat
+    - https://pei.globalpetfoods.com/products/charlottetown/Go-Solutions-Skin-Coat-Salmon-Recipe-with-Grains-Large-Breed-Puppy-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/go-solutions-skin-coat-care-chicken-recipe-dry-dog-food-2/
+    - https://pei.globalpetfoods.com/products/go-solutions-skin-coat-care-chicken-recipe-dry-dog-food-3/
+    - https://pei.globalpetfoods.com/products/go-solutions-skin-coat-care-chicken-recipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Skin-Coat-Care-Duck-with-Grains-Dry-Dog-Food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Skin-Coat-Care-Duck-with-Grains-Dry-Dog-Food-4/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-lamb-recipe-dry-dog-food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-lamb-recipe-dry-dog-food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-lamb-recipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-salmon-recipe-dry-dog-food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-salmon-recipe-dry-dog-food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-dog-go-solutions-skin-coat-care-salmon-recipe-dry-dog-food-4/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Skin-Coat-Care-Turkey-with-Grains-Dry-Dog-Food-2/
+    - https://pei.globalpetfoods.com/products/Petcurean-Dog-Go-Solutions-Skin-Coat-Care-Turkey-with-Grains-Dry-Dog-Food-3/
+
+  products_list_cats:
+    - https://pei.globalpetfoods.com/products/ACANA-Wild-Prairie-Dry-Cat-Food-2/ # Acana - Grain-Free Highest Protein 
+    - https://pei.globalpetfoods.com/products/ACANA-Wild-Prairie-Dry-Cat-Food-3/
+    - https://pei.globalpetfoods.com/products/ACANA-Pacifica-Dry-Cat-Food-2/
+    - https://pei.globalpetfoods.com/products/ACANA-Pacifica-Dry-Cat-Food-3/
+    - https://pei.globalpetfoods.com/products/charlottetown/Acana-Grasslands-Dry-Cat-Food-18-kg/
+    - https://pei.globalpetfoods.com/products/ACANA-First-Feast-Kitten-Dry-Cat-Food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-go-solutions-carnivore-grain-free-chicken-turkey-duck-recipe-dry-cat-food-2/ # Go! Solutions Carnivore 
+    - https://pei.globalpetfoods.com/products/petcurean-go-solutions-carnivore-grain-free-chicken-turkey-duck-recipe-dry-cat-food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-go-solutions-carnivore-grain-free-chicken-turkey-duck-recipe-dry-cat-food-4/
+    - https://pei.globalpetfoods.com/products/petcurean-cat-go-carnivore-grain-free-lamb-wild-boar-recipe-dry-cat-food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-cat-go-carnivore-grain-free-lamb-wild-boar-recipe-dry-cat-food-3/
+    - https://pei.globalpetfoods.com/products/petcurean-cat-go-carnivore-grain-free-salmon-cod-recipe-dry-cat-food-2/
+    - https://pei.globalpetfoods.com/products/petcurean-cat-go-carnivore-grain-free-salmon-cod-recipe-dry-cat-food-3/
+    - https://pei.globalpetfoods.com/products/Petcurean-Cat-Go-Solutions-Sensitivities-Limited-Ingredient-Duck-Grain-Free-Dry-Cat-Food-2/ # Go! Sensitivities 
+    - https://pei.globalpetfoods.com/products/Petcurean-Go-Sensitivities-Limited-Ingredient-Grain-Free-Duck-Recipe-Dry-Cat-Food-3/
+
 #LOJA #1: GLOBAL PET
 #https://pei.globalpetfoods.com/products/list/
 #https://richmondhillmajormac.globalpetfoods.com/products
